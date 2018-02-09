@@ -33,6 +33,24 @@
           "artist": "Beethoven"
         }
       ]
-    }
+    },
+    {
+      "title": "Beethoven Ran out of Ideas",
+      "songs": [
+        {
+          "title": "Piano Potato No. 0",
+          "artist": "Beethoven"
+        },
+        {
+          "title": "Piano Carrot No. 4",
+          "artist": "Beethoven"
+        },
+        {
+          "title": "Piano Spaget No. 6",
+          "artist": "Beethoven"
+        }
   ]
+  
+}
+    ]
 }
